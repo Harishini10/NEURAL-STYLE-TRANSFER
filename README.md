@@ -18,3 +18,4 @@ A PYTHON SCRIPT OR NOTEBOOK WITH EXAMPLES OF STYLED IMAGES.
 
 # output:
 
+![Image](https://github.com/user-attachments/assets/e3fa5922-5f5d-42a0-acad-3df2f63b4f88)
